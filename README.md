@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an aspiring backend engineer focusing on distributed architectures, system design, and agentic systems.
+
 <!--
 **pocketradio/pocketradio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pocketradio&theme=maroongold&hide_border=true)](https://github.com/pocketradio)
